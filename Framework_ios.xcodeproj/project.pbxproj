@@ -116,7 +116,6 @@
 				55033B6A2B46E8CC000F8CC2 /* Assets.xcassets */,
 				55033B6F2B46E8CC000F8CC2 /* Info.plist */,
 				55033B6C2B46E8CC000F8CC2 /* Preview Content */,
-				55E351D92B48248E001524DB /* SplashView.swift */,
 			);
 			path = Framework_ios;
 			sourceTree = "<group>";
@@ -150,6 +149,7 @@
 		5532F0FA2B475F3800EB10E0 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				55DFDEBA2B4859B2009C2458 /* SplashView */,
 				5532F0FB2B475F4400EB10E0 /* FrameworkGrideView */,
 				5532F0FD2B475F9900EB10E0 /* FrameworkDetailView */,
 			);
@@ -197,6 +197,14 @@
 				5532F0E82B47543F00EB10E0 /* SafariView.swift */,
 			);
 			path = safari;
+			sourceTree = "<group>";
+		};
+		55DFDEBA2B4859B2009C2458 /* SplashView */ = {
+			isa = PBXGroup;
+			children = (
+				55E351D92B48248E001524DB /* SplashView.swift */,
+			);
+			path = SplashView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
