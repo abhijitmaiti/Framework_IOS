@@ -19,7 +19,7 @@
 		5532F0E92B47543F00EB10E0 /* SafariView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5532F0E82B47543F00EB10E0 /* SafariView.swift */; };
 		5532F0EE2B47599C00EB10E0 /* GridViewItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5532F0ED2B47599C00EB10E0 /* GridViewItem.swift */; };
 		5532F0F32B4759F600EB10E0 /* DetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5532F0F22B4759F600EB10E0 /* DetailsView.swift */; };
-		5532F1072B47630800EB10E0 /* SplaceView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5532F1062B47630800EB10E0 /* SplaceView.swift */; };
+		55E351DA2B48248E001524DB /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 55E351D92B48248E001524DB /* SplashView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -58,7 +58,7 @@
 		5532F0E82B47543F00EB10E0 /* SafariView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SafariView.swift; sourceTree = "<group>"; };
 		5532F0ED2B47599C00EB10E0 /* GridViewItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GridViewItem.swift; sourceTree = "<group>"; };
 		5532F0F22B4759F600EB10E0 /* DetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailsView.swift; sourceTree = "<group>"; };
-		5532F1062B47630800EB10E0 /* SplaceView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplaceView.swift; sourceTree = "<group>"; };
+		55E351D92B48248E001524DB /* SplashView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,7 +116,7 @@
 				55033B6A2B46E8CC000F8CC2 /* Assets.xcassets */,
 				55033B6F2B46E8CC000F8CC2 /* Info.plist */,
 				55033B6C2B46E8CC000F8CC2 /* Preview Content */,
-				5532F1062B47630800EB10E0 /* SplaceView.swift */,
+				55E351D92B48248E001524DB /* SplashView.swift */,
 			);
 			path = Framework_ios;
 			sourceTree = "<group>";
@@ -331,10 +331,10 @@
 				55033BA22B46FCAC000F8CC2 /* FrameworkDetailView.swift in Sources */,
 				5532F0F32B4759F600EB10E0 /* DetailsView.swift in Sources */,
 				5532F0EE2B47599C00EB10E0 /* GridViewItem.swift in Sources */,
-				5532F1072B47630800EB10E0 /* SplaceView.swift in Sources */,
 				55033BB22B470CDB000F8CC2 /* FrameworkGirdViewModel.swift in Sources */,
 				55033BAD2B470C0A000F8CC2 /* FrameworkGridView.swift in Sources */,
 				55033B672B46E8CA000F8CC2 /* Framework_iosApp.swift in Sources */,
+				55E351DA2B48248E001524DB /* SplashView.swift in Sources */,
 				5532F0E92B47543F00EB10E0 /* SafariView.swift in Sources */,
 				55033B952B46F3FB000F8CC2 /* FrameworkModel.swift in Sources */,
 			);
